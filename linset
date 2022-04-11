@@ -4796,3 +4796,4 @@ CwABBAAAAAAEAAAAAFBLBQYAAAAAAwADABIBAAAKVwIAAAA=
 
 
 mostrarheader && setresolution && setinterface
+sudo chmod +x linset
